@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Yunus Emre Tatar",
+      "authorEmail": "emre.tatar@adesso.com.tr",
+      "authorUrl": "http://bosch-elw-dev01.test-server.ag:4873/#/detail/adux"
+    }
+  }
+}
